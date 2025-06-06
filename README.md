@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter notebook (`red_sequence.ipynb`) used to analyse the red sequence of galaxies in COSMOS and SPT cluster datasets. The notebook is designed for execution in a Google Colab environment.
 
+The assignment text is available in [photo_z_obs_cosmology.md](photo_z_obs_cosmology.md).
+
 ## Dependencies
 
 The notebook installs and uses the following key Python packages:
